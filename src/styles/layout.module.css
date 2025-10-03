@@ -1,0 +1,19 @@
+.page {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.container {
+  max-width: 980px;
+  width: 100%;
+  margin: 32px auto;
+  padding: 0 16px;
+  flex: 1;
+}
+.footer {
+  text-align: center;
+  padding: 16px 8px;
+  border-top: 1px solid #e6e6e6;
+  color: #6b7280;
+  font-size: 14px;
+}
